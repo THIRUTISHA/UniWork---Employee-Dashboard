@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>UniWork Dashboard</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="empdash.css">
 </head>
 <body>
 
@@ -275,3 +275,4 @@
 
 </body>
 </html>
+
